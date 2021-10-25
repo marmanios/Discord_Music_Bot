@@ -122,7 +122,7 @@ async def on_ready():
     print('------')
 
 bot.add_cog(Music(bot))
-bot.run('OTAxMzQ4MTQ0OTU5MzUyODQy.YXOj3w.0TrYQq9rxL7GwHxQdNNxrLUN1pg')
+bot.run('Token')
 
 
 
